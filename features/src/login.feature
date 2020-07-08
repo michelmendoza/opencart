@@ -19,7 +19,7 @@ Funcionalidade: Acessar Demo Open Cart
     E faço o logout
     
     
-    Esquema do Cenário: Fazer login com usuario Imdb com sucesso
+    Esquema do Cenário: Fazer login com usuario com sucesso
     Dado que eu clico em My Account > Login
     Quando eu preencho Login e Senha e clico em Login
     Então o Login é realizado com sucesso
